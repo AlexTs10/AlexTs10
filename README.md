@@ -4,7 +4,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=AlexTs10&style=flat-square&color=58a6ff&label=profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=AlexTs10&style=for-the-badge&color=58a6ff&label=profile+views&base=100)
 
 </div>
 
@@ -26,8 +26,10 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexTs10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTs10&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=AlexTs10&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/AlexTs10" alt="Contributions" />
 </p>
 
 ### 🚀 Featured projects
